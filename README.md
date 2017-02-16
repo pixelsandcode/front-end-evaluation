@@ -14,3 +14,9 @@ Here's a list of available tasks:
   * alias of `serve`
 * `npm start` (which is the default task that runs when typing `gulp` without providing an argument)
   * runs `serve`.
+  
+  ## Test Requirements
+  Follow the below link:
+  * https://drive.google.com/open?id=0B47dE60iDbhHWW5VVVlmWXZTMjA
+
+
