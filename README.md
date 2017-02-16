@@ -17,6 +17,6 @@ Here's a list of available tasks:
   
   ## Test Requirements
   Follow the below link:
- * https://drive.google.com/open?id=0B47dE60iDbhHWW5VVVlmWXZTMjA
+* https://drive.google.com/open?id=0B47dE60iDbhHWW5VVVlmWXZTMjA
 
 
